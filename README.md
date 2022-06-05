@@ -1,10 +1,13 @@
-This is a repository of lore for the codebase, that can be referenced in pulls if you want to start from some common base
+This fork aims to reorganize, expand and adjust the common lore for the Beestation server (https://beestation13.com/)
 
+# Why a fork?
+Many Bee races are missing from the common lore.
+A clearer timeline should be established, as well as documents to briefly describe races and major organizations relationships
 
 # What This Is Not
-
 This is not an exhaustive effort to catalog the universe of SS13 in great detail, as with Baystation. Rather, it is a collection of ideas and starting points for you to use IC with other players to generate interesting conversations and events. It is as close to canonical lore as you will get for the /tg/station codebase, however people are not required to use this lore, nor are maintainers bound to it.
 
+This isn't official lore for the Beestation server.
 
 # The Setting
 ## Basic Description
