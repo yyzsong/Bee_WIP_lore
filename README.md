@@ -2,7 +2,16 @@ This fork aims to reorganize, expand and adjust the common lore for the Beestati
 
 # Why a fork?
 Many Bee races are missing from the common lore.
-A clearer timeline should be established, as well as documents to briefly describe races and major organizations relationships
+A clearer timeline should be established, as well as documents to briefly describe species and major organizations relations
+The documents should be made more digestible (with a summary in the first paragraph), and the species/planets cultures should be more defined.
+
+# DO TO
+This is what still needs to be done:
+- Clear timeline established
+- Add IPC document
+- Add Apid document
+- Major organization/governaments relations
+- Species relations
 
 # What This Is Not
 This is not an exhaustive effort to catalog the universe of SS13 in great detail, as with Baystation. Rather, it is a collection of ideas and starting points for you to use IC with other players to generate interesting conversations and events. It is as close to canonical lore as you will get for the /tg/station codebase, however people are not required to use this lore, nor are maintainers bound to it.
