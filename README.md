@@ -1,11 +1,11 @@
 This fork aims to reorganize, expand and adjust the common lore for the Beestation server (https://beestation13.com/)
 
 # Why a fork?
-Many Bee races are missing from the common lore.
-A clearer timeline should be established.
-New documents should be written to briefly describe relations between species and major organizations.
-The documents should be made more digestible (with a summary in the first paragraph)
-And cultures for each species/planet should be better defined.
+- Many Bee races are missing from the common lore.
+- A clearer timeline should be established.
+- New documents should be written to briefly describe relations between species and major organizations.
+- The documents should be made more digestible (with a summary in the first paragraph)
+- And cultures for each species/planet should be better defined.
 
 # DO TO
 This is what still needs to be done:
